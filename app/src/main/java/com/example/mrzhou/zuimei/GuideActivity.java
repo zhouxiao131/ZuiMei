@@ -3,10 +3,7 @@ package com.example.mrzhou.zuimei;
 /**
  * Created by Mr.zhou on 2017/12/26.
  */
-
-import java.util.ArrayList;
-import java.util.List;
-
+/*2017年12月27日10:29:41*/
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.os.Bundle;
@@ -17,6 +14,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class GuideActivity extends Activity implements OnPageChangeListener {
 
