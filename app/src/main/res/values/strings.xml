@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">最美天气</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="empty_view_text">未设置城市.</string>
+    <string-array name="citys">
+        <item>自动定位</item>
+        <item>济南</item>
+        <item>潍坊</item>
+
+    </string-array>
+
+</resources>
